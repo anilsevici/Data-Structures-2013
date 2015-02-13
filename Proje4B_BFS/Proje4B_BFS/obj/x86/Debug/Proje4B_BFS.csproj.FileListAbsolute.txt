@@ -1,0 +1,6 @@
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_BFS\Proje4B_BFS\bin\Debug\Proje4B_BFS.exe
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_BFS\Proje4B_BFS\bin\Debug\Proje4B_BFS.pdb
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_BFS\Proje4B_BFS\obj\x86\Debug\Proje4B_BFS.exe
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_BFS\Proje4B_BFS\obj\x86\Debug\Proje4B_BFS.pdb
+C:\Users\ANIL\Desktop\Proje4B_BFS\Proje4B_BFS\obj\x86\Debug\Proje4B_BFS.exe
+C:\Users\ANIL\Desktop\Proje4B_BFS\Proje4B_BFS\obj\x86\Debug\Proje4B_BFS.pdb

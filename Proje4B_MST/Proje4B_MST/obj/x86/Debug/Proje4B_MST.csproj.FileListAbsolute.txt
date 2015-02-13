@@ -1,0 +1,6 @@
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_MST\Proje4B_MST\bin\Debug\Proje4B_MST.exe
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_MST\Proje4B_MST\bin\Debug\Proje4B_MST.pdb
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_MST\Proje4B_MST\obj\x86\Debug\Proje4B_MST.exe
+C:\Users\ANIL\Documents\Visual Studio 2010\Projects\PROJECTS\Data Structures 2013\Proje4B_MST\Proje4B_MST\obj\x86\Debug\Proje4B_MST.pdb
+C:\Users\ANIL\Desktop\Proje4B_MST\Proje4B_MST\obj\x86\Debug\Proje4B_MST.exe
+C:\Users\ANIL\Desktop\Proje4B_MST\Proje4B_MST\obj\x86\Debug\Proje4B_MST.pdb
